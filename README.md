@@ -23,5 +23,10 @@ Install the required modules
 
 Running the script:
 
+Create the `config.json` file
+
 * `python create_json.py`
+
+Start importing cars
+
 * `python main_2.py`
